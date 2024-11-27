@@ -1,0 +1,1 @@
+I tracciati per le ENTITA' MULTIMEDIALI **non rientrano tra gli standard catalografici** ma sono strumenti funzionali alla gestione nel SIGECweb della documentazione di corredo ai modelli catalografici.
